@@ -1,0 +1,2 @@
+- This folder contains the RSI strategy that assumes unlimited resources, one can buys or sells a # of coins every time a signal is given
+- Signal Plots, Backtesting, Jarvis,py file for live trading.
