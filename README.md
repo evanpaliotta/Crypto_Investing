@@ -9,4 +9,4 @@ Our project is to create and compare a short-term algorithmic trading strategy w
 
 ## File Explanation
 1. For the short-term strategy, look at the Algo folder.  Here you'll find all the code for the algorithmic trading strategies.
-2.
+2. The Crypto Corousel file displays the running code from a combination of all the notebooks in the repository.
